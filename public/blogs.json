@@ -1,0 +1,53 @@
+[
+    {
+      "id": "001",
+      "cover": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+      "title": "The Enchanted Forest",
+      "author": "Lily Harper",
+      "author_img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+      "posted_date": "2023-08-14",
+      "reading_time": 8,
+      "hashtags": ["#Fantasy", "#Adventure", "#Magic"]
+    },
+    {
+      "id": "002",
+      "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+      "title": "Coding the Future",
+      "author": "Max Donovan",
+      "author_img": "https://images.unsplash.com/photo-1522071820081-009f0129c71c",
+      "posted_date": "2023-09-05",
+      "reading_time": 12,
+      "hashtags": ["#Technology", "#AI", "#Innovation"]
+    },
+    {
+      "id": "003",
+      "cover": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "title": "Whispers of the Ocean",
+      "author": "Sophie Bennett",
+      "author_img": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df",
+      "posted_date": "2023-07-21",
+      "reading_time": 5,
+      "hashtags": ["#Travel", "#Nature", "#Photography"]
+    },
+    {
+      "id": "004",
+      "cover": "https://images.unsplash.com/photo-1519397157436-6a355eab5476",
+      "title": "The Startup Chronicles",
+      "author": "Jake Rivers",
+      "author_img": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+      "posted_date": "2023-10-10",
+      "reading_time": 15,
+      "hashtags": ["#Business", "#Entrepreneurship", "#Success"]
+    },
+    {
+      "id": "005",
+      "cover": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
+      "title": "A Culinary Journey",
+      "author": "Maya Wilson",
+      "author_img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+      "posted_date": "2023-09-28",
+      "reading_time": 10,
+      "hashtags": ["#Food", "#Cooking", "#Recipes"]
+    }
+  ]
+  
